@@ -1,0 +1,10 @@
+C:\Users\vampe\source\repos\Lab2.1\lab2\bin\Release\netcoreapp2.1\lab2.deps.json
+C:\Users\vampe\source\repos\Lab2.1\lab2\bin\Release\netcoreapp2.1\lab2.runtimeconfig.json
+C:\Users\vampe\source\repos\Lab2.1\lab2\bin\Release\netcoreapp2.1\lab2.runtimeconfig.dev.json
+C:\Users\vampe\source\repos\Lab2.1\lab2\bin\Release\netcoreapp2.1\lab2.dll
+C:\Users\vampe\source\repos\Lab2.1\lab2\bin\Release\netcoreapp2.1\lab2.pdb
+C:\Users\vampe\source\repos\Lab2.1\lab2\obj\Release\netcoreapp2.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\vampe\source\repos\Lab2.1\lab2\obj\Release\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+C:\Users\vampe\source\repos\Lab2.1\lab2\obj\Release\netcoreapp2.1\lab2.AssemblyInfo.cs
+C:\Users\vampe\source\repos\Lab2.1\lab2\obj\Release\netcoreapp2.1\lab2.dll
+C:\Users\vampe\source\repos\Lab2.1\lab2\obj\Release\netcoreapp2.1\lab2.pdb

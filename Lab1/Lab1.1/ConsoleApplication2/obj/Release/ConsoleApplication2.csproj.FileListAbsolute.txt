@@ -1,0 +1,8 @@
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
+E:\Программирование\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+E:\Программирование\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+E:\Программирование\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb

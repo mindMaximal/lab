@@ -1,0 +1,16 @@
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\stud.istu\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\Программирование\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+G:\Программирование\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
